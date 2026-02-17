@@ -1,0 +1,8 @@
+.prueba{
+    display: flex;
+    flex-direction: column;
+}
+.active{
+    color: red;
+    text-decoration: underline red;
+}
